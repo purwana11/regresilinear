@@ -1,0 +1,7 @@
+Flask==2.3.2
+gunicorn==20.1.0
+scikit-learn==1.2.2
+pandas
+numpy
+matplotlib
+Cython
